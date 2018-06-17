@@ -1,4 +1,3 @@
-![image](https://en.wikipedia.org/wiki/File:Facebook-likes-box.png)
 
 # Facebook Data Analysis
 
