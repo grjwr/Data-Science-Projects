@@ -31,11 +31,11 @@
 **Bold** and _Italic_ and `Code` text
 ### Exploration ideas:
 
--_Italic_ Date of birth analysis 
--_Italic_ Friend count analysis
--_Italic_ Tenure analysis   
--_Italic_ Data transformations
--_Italic_ Frequency polygons, Boxplots
+- Date of birth analysis 
+- Friend count analysis
+- Tenure analysis   
+- Data transformations
+- Frequency polygons, Boxplots
 
 
 ### Support or Contact
