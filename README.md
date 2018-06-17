@@ -1,8 +1,10 @@
 
 # Facebook Data Analysis
 
-## Domain: Social Network 
-## Project: Facebook data
+## Domain 
+- Social Network 
+## Project 
+- Facebook data
 
 
 ### Dataset contains pseudo Facebook data.
