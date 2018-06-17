@@ -1,4 +1,4 @@
-![Image](https://en.wikipedia.org/wiki/File:Facebook-likes-box.png)
+!(src:https://en.wikipedia.org/wiki/File:Facebook-likes-box.png)
 
 # Facebook Data Analysis
 
@@ -9,18 +9,22 @@
 ### Dataset contains pseudo Facebook data.
 
 **-Userid :** ID of user 
+
 **-Age :** User’s age(years) 
 **-dob_day :** Day of date of birth(1-31)  
 **-dob_year :** Year of date of birth  
 **-dob_month :** Month of date of birth  
 **-gender :** M/F  
 **-tenure :** How long have facebook users been on site  
+
 **-friend_count :** Total number of friends  
 **-friendships_initiated :** Friend requests sent  
 **-likes :** Total number of likes by user 
 **-likes_received :** Total number of likes received by user 
+
 **-mobile_likes :** Number of likes by user(through mobile)  
 **-mobile_likes_received :** Number of likes recieved by user(through mobile)  
+
 **-www_likes :** Number of likes by user(through desktop website)  
 **-www_likes_received :** Number of likes received by user(through desktop) 
  
