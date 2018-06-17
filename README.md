@@ -1,36 +1,39 @@
-## Welcome to GitHub Pages
+![Image](https://en.wikipedia.org/wiki/File:Facebook-likes-box.png)
 
-You can use the [editor on GitHub](https://github.com/grjwr/Data-Science-Projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Facebook Data Analysis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Domain: Social Network 
+## Project: Facebook data
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Dataset contains pseudo Facebook data.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+**-Userid :** ID of user 
+**-Age :** User’s age(years) 
+**-dob_day :** Day of date of birth(1-31)  
+**-dob_year :** Year of date of birth  
+**-dob_month :** Month of date of birth  
+**-gender :** M/F  
+**-tenure :** How long have facebook users been on site  
+**-friend_count :** Total number of friends  
+**-friendships_initiated :** Friend requests sent  
+**-likes :** Total number of likes by user 
+**-likes_received :** Total number of likes received by user 
+**-mobile_likes :** Number of likes by user(through mobile)  
+**-mobile_likes_received :** Number of likes recieved by user(through mobile)  
+**-www_likes :** Number of likes by user(through desktop website)  
+**-www_likes_received :** Number of likes received by user(through desktop) 
+ 
+ 
 **Bold** and _Italic_ and `Code` text
+### Exploration ideas:
 
-[Link](url) and ![Image](src)
-```
+-_Italic_ Date of birth analysis 
+-_Italic_ Friend count analysis
+-_Italic_ Tenure analysis   
+-_Italic_ Data transformations
+-_Italic_ Frequency polygons, Boxplots
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/grjwr/Data-Science-Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
