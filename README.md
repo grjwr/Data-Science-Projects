@@ -28,14 +28,13 @@
 **-www_likes_received :** Number of likes received by user(through desktop) 
  
  
-**Bold** and _Italic_ and `Code` text
 ### Exploration ideas:
 
-- Date of birth analysis- 
-- Friend count analysis-
-- Tenure analysis-
-- Data transformations-
-- Frequency polygons, Boxplots-
+- Date of birth analysis 
+- Friend count analysis
+- Tenure analysis
+- Data transformations
+- Frequency polygons, Boxplots
 
 
 ### Support or Contact
